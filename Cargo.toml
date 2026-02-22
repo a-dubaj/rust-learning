@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "rust-book/*",
+    "exercism/*",
+    "other/*",
+]
+resolver = "2"
