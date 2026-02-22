@@ -1,0 +1,43 @@
+target/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+.netrwhist
+Session.vim
+
+# JetBrains (CLion, IntelliJ)
+.idea/
+*.iml
+
+# Emacs
+*#
+.#*
+*.elc
+
+
+# Linux
+.directory
+.Trash-*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+.env
+.env.local
+*.log
+*.tmp
