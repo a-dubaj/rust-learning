@@ -1,7 +1,5 @@
 [workspace]
 members = [
-    "rust-book/*",
-    "exercism/*",
-    "other/*",
+    "rust-book/*"
 ]
 resolver = "2"
