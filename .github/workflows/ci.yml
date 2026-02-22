@@ -44,4 +44,4 @@ jobs:
         run: cargo build --verbose --workspace
 
       - name: Test
-        run: cargo nextest run --workspace
+        run: cargo nextest run --workspace --no-tests=pass
